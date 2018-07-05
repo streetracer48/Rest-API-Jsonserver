@@ -1,28 +1,28 @@
 {
-    "posts": [
+    "contacts": [
          {
          "id": 1,
-         "title": "json-server",
-         "author": "wasif"
+         "name": "json-server",
+         "email": "wasif"
 
         },
         {
             "id": 2,
-            "title": "json-server",
-            "author": "rakib"
+            "name": "json-server",
+            "email": "rakib"
 
            },
 
            {
             "id": 3,
-            "title": "json-server",
-            "author": "miraz"
+            "name": "json-server",
+            "email": "miraz"
 
            },
            {
             "id": 4,
-            "title": "json-server",
-            "author": "labib"
+            "name": "json-server",
+            "email": "labib"
 
            }
   ]
