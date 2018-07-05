@@ -1,30 +1,54 @@
 {
-    "contacts": [
-         {
-         "id": 1,
-         "name": "json-server",
-         "email": "wasif"
-
-        },
-        {
-            "id": 2,
-            "name": "json-server",
-            "email": "rakib"
-
-           },
-
-           {
-            "id": 3,
-            "name": "json-server",
-            "email": "miraz"
-
-           },
-           {
-            "id": 4,
-            "name": "json-server",
-            "email": "labib"
-
-           }
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Brian Dare",
+      "email": "Reinhold.Goyette55@hotmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Leo McClure",
+      "email": "Nedra_Corkery@hotmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Daniela Dare",
+      "email": "Teagan2@hotmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Cierra Mraz",
+      "email": "Rebekah55@yahoo.com"
+    },
+    {
+      "id": 5,
+      "name": "Elmer Sawayn",
+      "email": "Dominic97@yahoo.com"
+    },
+    {
+      "id": 6,
+      "name": "Mr. Gust Wiza",
+      "email": "Katherine_Ritchie72@gmail.com"
+    },
+    {
+      "id": 7,
+      "name": "Mr. Mossie Mills",
+      "email": "Sarai43@yahoo.com"
+    },
+    {
+      "id": 8,
+      "name": "Ottilie Baumbach",
+      "email": "Albertha.Jast30@hotmail.com"
+    },
+    {
+      "id": 9,
+      "name": "Lavina Gislason",
+      "email": "Hector_Jones@gmail.com"
+    },
+    {
+      "id": 10,
+      "name": "Lonny Schmeler II",
+      "email": "Pearlie.Langosh@hotmail.com"
+    }
   ]
-
 }
