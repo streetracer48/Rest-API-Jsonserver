@@ -1,0 +1,30 @@
+{
+    "posts": [
+         {
+         "id": 1,
+         "title": "json-server",
+         "author": "wasif"
+
+        },
+        {
+            "id": 2,
+            "title": "json-server",
+            "author": "rakib"
+
+           },
+
+           {
+            "id": 3,
+            "title": "json-server",
+            "author": "miraz"
+
+           },
+           {
+            "id": 4,
+            "title": "json-server",
+            "author": "labib"
+
+           }
+  ]
+
+}
